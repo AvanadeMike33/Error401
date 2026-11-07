@@ -2,23 +2,6 @@
 
 Table of Contents
 
-   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
-     1.1.  Terminology . . . . . . . . . . . . . . . . . . . . . . .   2
-   2.  Developer Errors  . . . . . . . . . . . . . . . . . . . . . .   2
-     2.1.  Inexcusable . . . . . . . . . . . . . . . . . . . . . . .   2
-     2.2.  Novelty Implementations . . . . . . . . . . . . . . . . .   3
-     2.3.  Edge Cases  . . . . . . . . . . . . . . . . . . . . . . .   3
-     2.4.  Fucking . . . . . . . . . . . . . . . . . . . . . . . . .   3
-     2.5.  Reserved for meritocracy related bullshit . . . . . . . .   3
-     2.6.  Syntax Errors . . . . . . . . . . . . . . . . . . . . . .   3
-     2.7.  Substance-Affected Developer  . . . . . . . . . . . . . .   4
-     2.8.  Predictable Problems  . . . . . . . . . . . . . . . . . .   4
-     2.9.  Somebody Else's Problem . . . . . . . . . . . . . . . . .   5
-     2.10. Internet crashed  . . . . . . . . . . . . . . . . . . . .   5
-   3.  Informative References  . . . . . . . . . . . . . . . . . . .   5
-   Appendix A.  Acknowledgements . . . . . . . . . . . . . . . . . .   6
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   6
-
 1.  Introduction
 
    Some words and stuff.  Reference to [RFC7231], looking to classify
